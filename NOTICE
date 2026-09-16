@@ -1,0 +1,12 @@
+EarMixer
+Copyright (c) 2026 EarMixer Project
+
+EarMixer is a derivative work of EarTrumpet:
+https://github.com/File-New-Project/EarTrumpet
+
+EarTrumpet is Copyright (c) 2015 File-New-Project and contributors.
+
+EarMixer keeps the original LICENSE, including the MIT License and the original
+additional excluded-entities notice. The changes in this fork include integrated
+recording-device selection, input-volume and mute controls, local branding, and
+the removal of external crash reporting and telemetry transmission.
