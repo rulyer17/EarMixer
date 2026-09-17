@@ -9,6 +9,12 @@ EarMixer is a Windows system-tray volume mixer with a compact microphone section
 - Toggle microphone mute with a clear on/off state.
 - Keep the original playback-device and per-app volume controls.
 
+### Microphone controls
+
+The microphone section appears below the playback mixer. It shows the active recording device, provides a Windows input-volume slider, and includes a one-click mute control with a visible state indicator.
+
+![EarMixer microphone controls](./Graphics/EarMixer-microphone-controls.png)
+
 This portable build does not send crash reports or usage telemetry to the EarMixer project or to the upstream project.
 
 ## Run
